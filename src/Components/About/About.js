@@ -34,9 +34,9 @@ const About = (props) => {
     return (
         <Fragment>
 
-            <div className="container-fluid" style={{ backgroundColor: '#FEEAE6' }}>
+            <div style={{ backgroundColor: '#FEEAE6' }}>
                 <Navbar />
-                <Grid container spacing={24} justify="center" >
+                <Grid container justify="center" >
 
                     <Grid item xs={12} sm={6} md={4}>
                         <Card className={classes.card} raised={true}>
