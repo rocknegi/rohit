@@ -1,0 +1,16 @@
+  .navbar.navbar-default {
+    background-color: #442C2E;
+    
+  }
+  .nav.navbar-nav.navbar-right li a {
+    color: #d6d6d6;
+}
+  
+
+.navbar-default .navbar-brand {
+  color: #d6d6d6;
+
+}
+  .active {
+   font-size: 27px;
+}
