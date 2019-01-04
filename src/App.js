@@ -7,7 +7,7 @@ import Contact from './Components/Contact/Contact';
 function App(props) {
   return (
     <Fragment>
-      <BrowserRouter>
+      <BrowserRouter basename="/rocknegi">
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/Home" exact component={Home} />
