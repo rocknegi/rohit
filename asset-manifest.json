@@ -1,13 +1,13 @@
 {
-  "main.css": "/rocknegi/static/css/main.6c88b602.chunk.css",
-  "main.js": "/rocknegi/static/js/main.a35c208d.chunk.js",
-  "main.js.map": "/rocknegi/static/js/main.a35c208d.chunk.js.map",
-  "static/js/1.095fe389.chunk.js": "/rocknegi/static/js/1.095fe389.chunk.js",
-  "static/js/1.095fe389.chunk.js.map": "/rocknegi/static/js/1.095fe389.chunk.js.map",
-  "runtime~main.js": "/rocknegi/static/js/runtime~main.3765b045.js",
-  "runtime~main.js.map": "/rocknegi/static/js/runtime~main.3765b045.js.map",
-  "static/css/main.6c88b602.chunk.css.map": "/rocknegi/static/css/main.6c88b602.chunk.css.map",
-  "index.html": "/rocknegi/index.html",
-  "precache-manifest.85d483cd44e4a84e737d6dab652c082e.js": "/rocknegi/precache-manifest.85d483cd44e4a84e737d6dab652c082e.js",
-  "service-worker.js": "/rocknegi/service-worker.js"
+  "main.css": "/rohit/static/css/main.6c88b602.chunk.css",
+  "main.js": "/rohit/static/js/main.ccc61710.chunk.js",
+  "main.js.map": "/rohit/static/js/main.ccc61710.chunk.js.map",
+  "static/js/1.095fe389.chunk.js": "/rohit/static/js/1.095fe389.chunk.js",
+  "static/js/1.095fe389.chunk.js.map": "/rohit/static/js/1.095fe389.chunk.js.map",
+  "runtime~main.js": "/rohit/static/js/runtime~main.f6116da7.js",
+  "runtime~main.js.map": "/rohit/static/js/runtime~main.f6116da7.js.map",
+  "static/css/main.6c88b602.chunk.css.map": "/rohit/static/css/main.6c88b602.chunk.css.map",
+  "index.html": "/rohit/index.html",
+  "precache-manifest.2bf9b985cefe679e8dc881fd3450da93.js": "/rohit/precache-manifest.2bf9b985cefe679e8dc881fd3450da93.js",
+  "service-worker.js": "/rohit/service-worker.js"
 }
