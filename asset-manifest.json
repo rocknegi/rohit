@@ -1,13 +1,14 @@
 {
-  "main.css": "/rohit/static/css/main.6c88b602.chunk.css",
-  "main.js": "/rohit/static/js/main.ccc61710.chunk.js",
-  "main.js.map": "/rohit/static/js/main.ccc61710.chunk.js.map",
-  "static/js/1.095fe389.chunk.js": "/rohit/static/js/1.095fe389.chunk.js",
-  "static/js/1.095fe389.chunk.js.map": "/rohit/static/js/1.095fe389.chunk.js.map",
+  "main.css": "/rohit/static/css/main.cdf475f3.chunk.css",
+  "main.js": "/rohit/static/js/main.7b261660.chunk.js",
+  "main.js.map": "/rohit/static/js/main.7b261660.chunk.js.map",
+  "static/js/1.eff7e69a.chunk.js": "/rohit/static/js/1.eff7e69a.chunk.js",
+  "static/js/1.eff7e69a.chunk.js.map": "/rohit/static/js/1.eff7e69a.chunk.js.map",
   "runtime~main.js": "/rohit/static/js/runtime~main.f6116da7.js",
   "runtime~main.js.map": "/rohit/static/js/runtime~main.f6116da7.js.map",
-  "static/css/main.6c88b602.chunk.css.map": "/rohit/static/css/main.6c88b602.chunk.css.map",
+  "static/media/bg4.jpg": "/rohit/static/media/bg4.199e9ec1.jpg",
+  "static/css/main.cdf475f3.chunk.css.map": "/rohit/static/css/main.cdf475f3.chunk.css.map",
   "index.html": "/rohit/index.html",
-  "precache-manifest.2bf9b985cefe679e8dc881fd3450da93.js": "/rohit/precache-manifest.2bf9b985cefe679e8dc881fd3450da93.js",
+  "precache-manifest.4d9fda73913dda67a6fc86dd9d0403fa.js": "/rohit/precache-manifest.4d9fda73913dda67a6fc86dd9d0403fa.js",
   "service-worker.js": "/rohit/service-worker.js"
 }
