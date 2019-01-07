@@ -21,10 +21,9 @@ const styles = {
 
     box: {
         width: '130px',
-        height: '135px',
+        height: '130px',
         background: '#FAFAFA',
         margin: 'auto',
-        content: 'hi'
     },
 
     sidebar: {
@@ -33,7 +32,9 @@ const styles = {
         background: '#795548',
         padding: '30px',
         display: 'flex',
-        marginTop: '5px'
+        marginTop: '5px',
+        backgroundColor: '#1b1b1b',
+        border: '4px #f44336 solid',
     }
 }
 
@@ -84,7 +85,7 @@ class Contact extends Component {
         const { classes } = this.props;
         return (
             <Fragment >
-                <Navbar />
+                <Navbar nav="navbar navbar-default" />
                 <Grid container>
                     <Grid item sm={12} md={12} xs={12}>
                         <Sidebar className={classes.sidebar} pose={this.state.isOpen ? 'open' : 'closed'} onClick={this.handleClickOpen}>

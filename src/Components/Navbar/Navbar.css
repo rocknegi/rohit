@@ -1,16 +1,31 @@
-  .navbar.navbar-default {
-    background-color: #442C2E;
-    
+  .navbar.navbar {
+   border: 3px #f44336 solid;
   }
+  .navbar-default {
+    background-color:#442c2e;
+    background-image: url("../../assets/bg4.jpg");
+    /* background-repeat: no-repeat; */
+   }
+  
   .nav.navbar-nav.navbar-right li a {
-    color: #d6d6d6;
-}
+    color:#ffffff;
+    font-size: 20px;
+    margin-right: 5px;
+  }
   
 
-.navbar-default .navbar-brand {
-  color: #d6d6d6;
+.navbar-header .navbar-brand {
+  color:#ffffff;
+  font-size: 22px
 
 }
+ul.nav a:hover { 
+  color: #757575 !important; 
+}
   .active {
-   font-size: 27px;
+   font-size: 30px !important;
+}
+
+.icon-bar{
+  background-color: #FFFFFF
 }

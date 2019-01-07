@@ -7,7 +7,6 @@ import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 
-import Home from '../Home/Home'
 import { Paper } from '@material-ui/core';
 import Navbar from '../Navbar/Navbar';
 
@@ -15,16 +14,18 @@ const styles = {
     card: {
         maxWidth: 350,
         margin: 20,
-        maxHeight: '120rem'
+        maxHeight: '120rem',
+
     },
     cardMedia: {
         height: 350,
         width: 350,
     },
     bgColor: {
-        backgroundColor: '#442C2E',
+        backgroundColor: '#1b1b1b',
+        border: '2px #f44336 solid',
         textAlign: 'center',
-        color: '#d6d6d6'
+        color: '#ffffff'
     }
 }
 
@@ -34,11 +35,11 @@ const About = (props) => {
     return (
         <Fragment>
 
-            <div style={{ backgroundColor: '#FEEAE6' }}>
-                <Navbar />
+            <div style={{ backgroundColor: '#1b1b1b' }}>
+                <Navbar nav="navbar navbar-fixed-top  navbar-default" />
                 <Grid container justify="center" >
 
-                    <Grid item xs={12} sm={6} md={4}>
+                    <Grid item xs={12} sm={6} md={4} style={{ marginTop: '3%' }}>
                         <Card className={classes.card} raised={true}>
                             <CardActionArea>
                                 <CardMedia
@@ -67,7 +68,7 @@ const About = (props) => {
                         Education
         </Typography>
                 </Paper>
-                <Grid container spacing={40} justify="center">
+                <Grid container spacing={0} justify="center">
 
                     <Grid item xs={12} sm={6} md={4}>
                         <Card className={classes.card} raised={true} >

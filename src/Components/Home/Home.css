@@ -1,0 +1,23 @@
+  .carousel-indicators{
+      /* margin-bottom: 0% */
+  }
+
+  .carousel-caption{
+      font-weight: bold;
+      margin-bottom: 15%;
+     font-size: 60px;
+     /* margin-bottom: 20%; */
+  }
+
+.carousel .item {
+  height: 630px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+
