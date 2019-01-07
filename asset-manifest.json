@@ -1,7 +1,7 @@
 {
-  "main.css": "/rohit/static/css/main.d78b1400.chunk.css",
-  "main.js": "/rohit/static/js/main.66918f94.chunk.js",
-  "main.js.map": "/rohit/static/js/main.66918f94.chunk.js.map",
+  "main.css": "/rohit/static/css/main.7a097bcb.chunk.css",
+  "main.js": "/rohit/static/js/main.09d2eff4.chunk.js",
+  "main.js.map": "/rohit/static/js/main.09d2eff4.chunk.js.map",
   "static/js/1.638f9c7d.chunk.js": "/rohit/static/js/1.638f9c7d.chunk.js",
   "static/js/1.638f9c7d.chunk.js.map": "/rohit/static/js/1.638f9c7d.chunk.js.map",
   "runtime~main.js": "/rohit/static/js/runtime~main.f6116da7.js",
@@ -9,8 +9,8 @@
   "static/media/Navbar.css": "/rohit/static/media/bg4.199e9ec1.jpg",
   "static/media/bg2.jpg": "/rohit/static/media/bg2.84378183.jpg",
   "static/media/bg3.jpg": "/rohit/static/media/bg3.b08234a2.jpg",
-  "static/css/main.d78b1400.chunk.css.map": "/rohit/static/css/main.d78b1400.chunk.css.map",
+  "static/css/main.7a097bcb.chunk.css.map": "/rohit/static/css/main.7a097bcb.chunk.css.map",
   "index.html": "/rohit/index.html",
-  "precache-manifest.ffcc032de8f8576a7185b24c60f614b3.js": "/rohit/precache-manifest.ffcc032de8f8576a7185b24c60f614b3.js",
+  "precache-manifest.886d62658349c4b91bddbc27a11ed6c2.js": "/rohit/precache-manifest.886d62658349c4b91bddbc27a11ed6c2.js",
   "service-worker.js": "/rohit/service-worker.js"
 }

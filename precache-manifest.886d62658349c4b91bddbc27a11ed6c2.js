@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "66918f941f5e1e052ebc",
-    "url": "/rohit/static/css/main.d78b1400.chunk.css"
+    "revision": "09d2eff4c36986c4d8c3",
+    "url": "/rohit/static/css/main.7a097bcb.chunk.css"
   },
   {
-    "revision": "66918f941f5e1e052ebc",
-    "url": "/rohit/static/js/main.66918f94.chunk.js"
+    "revision": "09d2eff4c36986c4d8c3",
+    "url": "/rohit/static/js/main.09d2eff4.chunk.js"
   },
   {
     "revision": "638f9c7d31ac5b666556",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/rohit/static/media/bg3.b08234a2.jpg"
   },
   {
-    "revision": "12995da88b7a89329da1ec291dbe4124",
+    "revision": "7eae0dcfa278719c16202fbbc654ef98",
     "url": "/rohit/index.html"
   }
 ];
