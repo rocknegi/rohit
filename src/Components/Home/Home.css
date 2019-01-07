@@ -20,4 +20,22 @@
     min-height: 300px;
 }
 
+@media screen and (max-width:870px){
+    .item img{
+       position: relative;
+       top: 0;
+       left: 0;
+       min-height: 100%;
+    }
+
+    .carousel .item{
+       height: 100%;
+    }
+
+.carousel-caption{
+    font-size: 35px
+}
+
+}
+
 
