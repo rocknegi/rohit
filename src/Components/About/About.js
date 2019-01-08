@@ -12,14 +12,14 @@ import Navbar from '../Navbar/Navbar';
 
 const styles = {
     card: {
-        maxWidth: 350,
-        margin: 20,
+        maxWidth: 300,
+        margin: '20px auto 20px auto',
         maxHeight: '120rem',
 
     },
     cardMedia: {
         height: 350,
-        width: 350,
+        width: 300,
     },
     bgColor: {
         backgroundColor: '#1b1b1b',

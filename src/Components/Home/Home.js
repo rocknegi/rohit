@@ -63,7 +63,7 @@ class Home extends Component {
                                 <div class="item">
                                     <img src={bg2} alt="Chicago" />
                                     <div className="carousel-caption">
-                                        This site is wholly built with reactJS.
+                                        The site is wholly built with reactJS.
                                     </div>
 
                                 </div>
@@ -71,7 +71,8 @@ class Home extends Component {
                                 <div class="item">
                                     <img src={bg3} alt="New York" />
                                     <div className="carousel-caption">
-                                        This site is wholly built with reactJS.
+
+                                        Contact Me if you find  any bugs or have some work for me
                                         </div>
                                 </div>
                             </div>
